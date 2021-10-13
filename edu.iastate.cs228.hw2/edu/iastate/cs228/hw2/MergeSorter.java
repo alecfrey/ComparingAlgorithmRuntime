@@ -68,6 +68,12 @@ public class MergeSorter extends AbstractSorter {
 		merge(pts, left, right);
 	}
 	
+	/**
+	 * Merges left and right subarrays from the mergeSortRec method
+	 * @param array
+	 * @param left
+	 * @param right
+	 */
 	private void merge(Point[] array, Point[] left, Point[] right) {
 		int i = 0;
 		int j = 0;

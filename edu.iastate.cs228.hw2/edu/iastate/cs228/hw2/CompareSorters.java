@@ -1,6 +1,9 @@
 package edu.iastate.cs228.hw2;
 
 import java.io.File;
+import java.io.FileNotFoundException;
+import java.util.Scanner;
+import java.util.Random;
 
 /**
  * 
@@ -11,10 +14,6 @@ import java.io.File;
  * execution times of these algorithms on the same input. 
  *
  */
-
-import java.io.FileNotFoundException;
-import java.util.Scanner;
-import java.util.Random;
 
 public class CompareSorters {
 	/**

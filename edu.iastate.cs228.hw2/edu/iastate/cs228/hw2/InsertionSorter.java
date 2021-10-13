@@ -9,7 +9,7 @@ import java.util.InputMismatchException;
  *
  * @author Alec Frey
  * 
- *         This class implements insertion sort.
+ * This class implements insertion sort.
  *
  */
 
