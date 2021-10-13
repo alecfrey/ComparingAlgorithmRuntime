@@ -6,7 +6,7 @@ import java.lang.IllegalArgumentException;
 import java.util.InputMismatchException;
 
 
-/** test
+/**
  *
  * @author Alec Frey
  * 
