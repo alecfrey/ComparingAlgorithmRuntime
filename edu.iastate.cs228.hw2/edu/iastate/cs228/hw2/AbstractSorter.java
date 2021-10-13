@@ -7,7 +7,7 @@ import java.util.InputMismatchException;
 
 
 /**
- *test
+ *
  * @author Alec Frey
  * 
  * This abstract class is extended by SelectionSort, InsertionSort, MergeSort, and QuickSort.
