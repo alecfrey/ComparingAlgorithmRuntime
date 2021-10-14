@@ -90,6 +90,7 @@ public class CompareSorters {
 
 				for (int i = 0; i < scanners.length; i++) {
 					scanners[i].scan();
+					scanners[i].writeMCPToFile();
 					String stats = scanners[i].stats();
 
 					if (i < 2) {
@@ -124,6 +125,7 @@ public class CompareSorters {
 
 				for (int i = 0; i < scanners.length; i++) {
 					scanners[i].scan();
+					scanners[i].writeMCPToFile();
 					String stats = scanners[i].stats();
 
 					if (i < 2) {
